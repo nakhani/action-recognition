@@ -56,7 +56,7 @@ Before training the model, you need to preprocess the video data and extract fea
 1. **Feature Extraction**:
    Use `objs.py` to extract MoSIFT features from your video files.
    ```bash
-   python mosift_feature_extraction.py --input_path path/to/videos --output_path path/to/output
+   python objs.py --input_path path/to/videos --output_path path/to/output
 
 2. **Data Splitting**:
    Ensure that your data is split into training and validation sets. The provided script `neuralnet.py`  includes functionality to split the dataset.
