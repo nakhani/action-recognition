@@ -28,12 +28,12 @@ To run this project, you need to have Python installed along with the required l
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/action-recognition-mosift.git
+    git clone https://github.com/nakhani/action-recognition.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd action-recognition-mosift
+    cd action-recognition
     ```
 
 3. **Create and activate a virtual environment (optional but recommended)**:
